@@ -20,7 +20,7 @@ public class BinarySearchExample {
 
     public static void main(String[] args) {
         int[] numbers = {2, 4, 6, 8, 10, 12, 14};
-        int target = 10;
+        int target = 1;
 
         int result = binarySearch(numbers, target);
 
